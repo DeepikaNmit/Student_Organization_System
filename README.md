@@ -9,7 +9,7 @@ Frontend only (React + TypeScript + Vite + Tailwind). All data is demo data in `
 1. Install Node.js 20+.
 2. Open this folder in VS Code, then open a terminal (Ctrl+`).
 3. `npm install`
-4. `npm run dev` and open the printed URL (http://localhost:5173).
+4. `npm run dev` and open the printed URL (http://localhost:5176).
 
 Other scripts: `npm run build` (typecheck + production build), `npm run preview`.
 
