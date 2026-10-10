@@ -1,5 +1,1 @@
-node_modules
-dist
-.env
-.env.local
-*.log
+VITE_API_URL=http://localhost:4000/api/v1
